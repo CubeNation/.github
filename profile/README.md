@@ -1,5 +1,3 @@
-# .github
-
 
 <h1 align="center">Hi 👋, We're CubeNation</h1>
 <h3 align="center">A puzzle store based in Bangladesh.</h3>
