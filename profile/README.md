@@ -19,7 +19,7 @@ A haven for puzzlers of all sorts.
 **Our Mission**<br>
 To popularize puzzles among the people and build a safe haven for puzzlers to rest in.
 
-- 🔭 We currently working on **NextJS V13 Website for our store** [https://beta.cubenationshop.com/](https://beta.cubenationshop.com/)
+- 🔭 We recently launched our **NextJS V13 Website for our store** [https://cubenationshop.com/](https://cubenationshop.com/)
 
 - 📝 We regularly write articles on [https://blog.cubenationshop.com/](https://blog.cubenationshop.com/)
 
